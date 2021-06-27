@@ -1,0 +1,12 @@
+# ==============================================================================
+# Copyright © 2019 Lavle USA Inc.
+#
+# This file is the property of Lavle USA Inc. and shall not be reproduced,
+# copied, or used as the basis for the manufacture or sale of equipment without
+# the express written permission of Lavle USA Inc.
+# ==============================================================================
+@ %leaf
+
+@ %protoshell	socket_demo.sh
+@		socket_pub.py
+@		socket_sub.py
