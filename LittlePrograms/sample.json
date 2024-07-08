@@ -1,0 +1,19 @@
+{
+  "name": "John",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "zipcode": "12345"
+  },
+  "contacts": [
+    {
+      "type": "email",
+      "value": "john@example.com"
+    },
+    {
+      "type": "phone",
+      "value": "555-1234"
+    }
+  ]
+}
